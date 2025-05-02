@@ -5,7 +5,8 @@
     padding: 2rem;
   }
   .hero {
-    height: 80vh;
+
+    height: 70vh;
 
   }
 }
@@ -14,15 +15,16 @@
     padding: 2rem;
   }
   .hero {
-    padding-top: 4rem;
+    padding-top: 10rem;
     flex-direction: column-reverse;
     text-align: center;
-    gap: 0rem;
-    height: 80vh;
-
+    justify-content: center;
+    height: 85vh;
+    row-gap: 8rem;
   }
+
   .heroImg {
-    width: 70%;
+    width: 60%;
   }
   .heroBox {
     justify-content: center;
@@ -42,8 +44,12 @@
 }
 @media (max-width: 900px) {
   .hero {
-    height: 50vh;
+    height: 70vh;
+    padding: 10rem;
+    
+
   }
+  
   .serviceInfoBox,
   .team-grid-box,
   .pricing-box,

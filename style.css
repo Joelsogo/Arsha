@@ -176,7 +176,7 @@ h6 {
 }
 .heroImg {
   width: 55rem;
-  animation: 3s infinite linear bounce;
+  animation: 4s infinite linear bounce;
 }
 @keyframes bounce {
   0% {
