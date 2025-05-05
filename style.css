@@ -257,7 +257,7 @@ h6 {
   align-items: center;
   background-color: whitesmoke;
 }
-.AboutServiceTitle {
+.aboutServiceTitle {
   font-size: 35px;
   font-weight: 400;
   color: var(--surface-color);
